@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish",sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: #2a364f;
+    display: flex;
+    place-items: center;
+}
+
+
+.counter-container{
+    align-items: center;
+    margin-left: 230px;
+}
